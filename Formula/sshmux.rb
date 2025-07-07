@@ -4,8 +4,8 @@
 class Sshmux < Formula
   desc "SSH command muxer"
   homepage "https://github.com/bepisdev/sshmux"
-  url "https://github.com/bepisdev/sshmux/archive/refs/tags/1.0.tar.gz"
-  sha256 "62bc5d7c8e6f92fa8a2f323f564e5a78d9172192a76b2201fad6c58133f7a559"
+  url "https://github.com/bepisdev/sshmux/archive/refs/tags/vv1.1.tar.gz"
+  sha256 "0cb714a3c23dedb6854d875088512882f70a59df634a4be2a4da635cffffefa5"
   license ""
 
   depends_on "rust" => :build
