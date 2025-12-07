@@ -3,8 +3,8 @@ class Wallhavend < Formula
 
   desc "Simple script to handle retrieve and use wallpapers from wallhaven.cc"
   homepage "https://github.com/bepisdev/wallhavend"
-  url "https://github.com/bepisdev/wallhavend/archive/refs/tags/0.3.0.tar.gz"
-  sha256 "8ff65d98ef0398d2aa843c3706f5b368269cb9600c7d01addebd805d28503729"
+  url "https://github.com/bepisdev/wallhavend/archive/refs/tags/0.3.1.tar.gz"
+  sha256 "a74232a66d39665e906174d0b41030ff8fe5e37c97cb89ac5827a51657b2733e"
   
   depends_on "python@3.14"
 
